@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Web development" and "App development"
 -  🌱 I’m currently learning-
 -  Languages-C,C++,Python
--  Frontend-! [HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue)![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)
+-  Frontend-! [HTML](https://img.shields.io/badge/HTML-5-orange)![CSS](https://img.shields.io/badge/CSS-3-blue)![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)
 - 💞️ I’m looking to collaborate on-
 - **Python projects**
 - **Web Development**
