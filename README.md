@@ -2,7 +2,8 @@
 - 👀 I’m interested in "Web development" and "App development"
 -  🌱 I’m currently learning-
 -  Languages-C,C++,Python
--  Frontend-![HTML](https://img.shields.io/badge/HTML-5-orange)![CSS](https://img.shields.io/badge/CSS-3-blue)![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![React](https://img.shields.io/badge/React-blue)
+-  Frontend-![HTML](https://img.shields.io/badge/HTML-5-orange)![CSS](https://img.shields.io/badge/CSS-3-blue)![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)![React](https://img.shields.io/badge/React-blue)
+-  Backend-![Node.js](https://img.shields.io/badge/Node.js-green)![Express.js](https://img.shields.io/badge/Express.js-black)
 
 
 - 💞️ I’m looking to collaborate on-
