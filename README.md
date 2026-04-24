@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yachna</h1>
-<h3 align="center">🚀 Full Stack Learner | DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Learner | DSA Enthusiast | Backend Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Python+Backend;DSA+Practitioner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;FastAPI+Backend;DSA+Practitioner" />
 </p>
 
 ---
@@ -10,6 +10,8 @@
 ## 💡 About Me
 
 * 💻 Building with **HTML, CSS, React & Python**
+* ⚙️ Working on **Backend using FastAPI, JWT Authentication**
+* 🧪 Testing APIs using **Postman**
 * 🧠 Practicing **Data Structures & Algorithms daily**
 * 🎯 Goal: Become a **strong full-stack developer**
 * ⚡ Focused on **efficient and clean code**
@@ -21,6 +23,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
 </p>
+
+### ⚙️ Backend & Tools
+
+* FastAPI
+* JWT Authentication
+* REST APIs
+* Postman
 
 ---
 
@@ -56,7 +65,8 @@
 
 * 🔹 DSA (Arrays, Strings, DP, Recursion)
 * 🔹 React Projects
-* 🔹 Backend Development (Python)
+* 🔹 Backend APIs with FastAPI
+* 🔹 Authentication Systems (JWT)
 * 🔹 Improving problem-solving speed
 
 ---
@@ -64,7 +74,7 @@
 ## 🧩 Projects
 
 * 🌐 Frontend Projects (React UI)
-* ⚙️ Backend Projects (Python APIs)
+* ⚙️ Backend Projects (FastAPI + JWT)
 * 🧠 DSA Solutions Repository
 
 👉 Check pinned repositories below
@@ -86,7 +96,7 @@
 
 ## ⚡ Mindset
 
-> I don’t stop at making code work — I optimize it until it performs.
+> I build APIs, secure them, test them, and optimize them.
 
 ---
 
