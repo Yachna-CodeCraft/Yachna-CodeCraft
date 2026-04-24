@@ -1,19 +1,93 @@
-- 👋 Hi, I’m @Yachna-CodeCraft
-- 👀 I’m interested in "Web development" and "App development"
--  🌱 I’m currently learning-
--  Languages-C,C++,Python
--  Frontend-![HTML](https://img.shields.io/badge/HTML-5-orange)![CSS](https://img.shields.io/badge/CSS-3-blue)![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ES6-yellow)![React](https://img.shields.io/badge/React-blue)
--  Backend-![Node.js](https://img.shields.io/badge/Node.js-green)![Express.js](https://img.shields.io/badge/Express.js-black)
+<h1 align="center">Hi 👋, I'm Yachna</h1>
+<h3 align="center">🚀 Full Stack Learner | DSA Enthusiast | Problem Solver</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Python+Backend;DSA+Practitioner" />
+</p>
 
-- 💞️ I’m looking to collaborate on-
-- **Python projects**
-- **Web Development**
-- 📫 How to reach me ("yachnar100@gmail.com")
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: .The very first webcam was created at the University of Cambridge to monitor a coffee pot. And here I am coding around the clock and keeping an eye on my own digital projects!".
+---
 
-<!---
-Yachna-CodeCraft/Yachna-CodeCraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 About Me
+
+* 💻 Building with **HTML, CSS, React & Python**
+* 🧠 Practicing **Data Structures & Algorithms daily**
+* 🎯 Goal: Become a **strong full-stack developer**
+* ⚡ Focused on **efficient and clean code**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yachna-CodeCraft&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yachna-CodeCraft&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 DSA & Coding Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yachna59?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachna-CodeCraft&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+* 🔹 DSA (Arrays, Strings, DP, Recursion)
+* 🔹 React Projects
+* 🔹 Backend Development (Python)
+* 🔹 Improving problem-solving speed
+
+---
+
+## 🧩 Projects
+
+* 🌐 Frontend Projects (React UI)
+* ⚙️ Backend Projects (Python APIs)
+* 🧠 DSA Solutions Repository
+
+👉 Check pinned repositories below
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yachna-4041a12b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:yachnar100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## ⚡ Mindset
+
+> I don’t stop at making code work — I optimize it until it performs.
+
+---
+
+⭐ *Consistency beats talent. I'm building every day.*
