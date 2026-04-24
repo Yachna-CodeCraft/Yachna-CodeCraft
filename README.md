@@ -51,15 +51,7 @@
   <img src="https://leetcard.jacoblin.cool/yachna59?theme=dark&font=Baloo&ext=contest" />
 </p>
 
----
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yachna-CodeCraft&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 What I'm Working On
 
