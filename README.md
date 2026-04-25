@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Learner | DSA Enthusiast | Backend Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;FastAPI+Backend;DSA+Practitioner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;FastAPI+Backend;" />
 </p>
 
 ---
